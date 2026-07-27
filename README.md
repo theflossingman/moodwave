@@ -16,3 +16,22 @@ You can tell ai anything and it will build you the perfect playlist based off yo
 -----------------------------------------------------------------------------------------------------------------------------------
 Set up daily playlist so that ai can generate you a new playlist everyday based off what you listen to and your playlist's.
 <img width="1919" height="934" alt="2" src="https://github.com/user-attachments/assets/85a3ce01-9404-4faa-bef2-caefe54986aa" />
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Deploy using dock
+
+
+services:
+  moodwave:
+    build: https://github.com/theflossingman/moodwave.git#main
+    ports:
+      - "9091:3002"
+    volumes:
+      - /your/path/moodwave:/app/data
+    environment:
+      - TZ=America/New_York
+      - NODE_ENV=production
+      - PORT=3002
+    restart: unless-stopped
