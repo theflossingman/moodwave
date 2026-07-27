@@ -1,28 +1,38 @@
-MoodWave is a Navidrome client for generating ai playlist very easily.
+# 🌊 MoodWave
 
----------------------------------------------------------------------------- 
+MoodWave is an AI-powered playlist generator for **Navidrome**.
 
- MoodWave can connect to your Navidrome server and your local ollama server 
- to generate playlists based off your library.  
- ------------------------------------------------------------------------------
+It connects to your **Navidrome** server and your **local Ollama** server to generate playlists based entirely on your music library.
 
+---
 
+## ✨ Features
 
+- 🎵 Generate playlists using natural language
+- 🧠 Uses your own Ollama AI models
+- 🎧 Works with your existing Navidrome library
+- 📅 Automatic daily AI-generated playlists
+- 🔒 Runs completely on your own server
 
+---
 
+## 🗣️ Generate Playlists
 
-You can tell ai anything and it will build you the perfect playlist based off your library. 
-<img width="1919" height="938" alt="1" src="https://github.com/user-attachments/assets/e8f0829d-a179-4950-b4f0-ee41668fc67c" />
------------------------------------------------------------------------------------------------------------------------------------
-Set up daily playlist so that ai can generate you a new playlist everyday based off what you listen to and your playlist's.
-<img width="1919" height="934" alt="2" src="https://github.com/user-attachments/assets/85a3ce01-9404-4faa-bef2-caefe54986aa" />
+Tell the AI anything, and it will build the perfect playlist from **your** music library.
 
------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1919" height="938" alt="Generate Playlist" src="https://github.com/user-attachments/assets/e8f0829d-a179-4950-b4f0-ee41668fc67c" />
 
+---
 
-Deploy using dock
+## 📅 Daily Playlists
 
+Create a new AI-generated playlist every day based on your listening history and existing playlists.
 
+<img width="1919" height="934" alt="Daily Playlist" src="https://github.com/user-attachments/assets/85a3ce01-9404-4faa-bef2-caefe54986aa" />
+
+---
+
+# 🚀 Installation
 
 ## Docker Compose
 
@@ -40,3 +50,19 @@ services:
       PORT: 3002
     restart: unless-stopped
 ```
+
+Start the container:
+
+```bash
+docker compose up -d
+```
+
+---
+
+## 🔑 Default Credentials
+
+| Username | Password |
+|----------|----------|
+| `admin` | `admin123` |
+
+> **Important:** Change the default password after your first login.
