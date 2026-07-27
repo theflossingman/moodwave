@@ -23,6 +23,10 @@ Set up daily playlist so that ai can generate you a new playlist everyday based 
 Deploy using dock
 
 
+
+## Docker Compose
+
+```yaml
 services:
   moodwave:
     build: https://github.com/theflossingman/moodwave.git#main
@@ -31,7 +35,8 @@ services:
     volumes:
       - /your/path/moodwave:/app/data
     environment:
-      - TZ=America/New_York
-      - NODE_ENV=production
-      - PORT=3002
+      TZ: America/New_York
+      NODE_ENV: production
+      PORT: 3002
     restart: unless-stopped
+```
