@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "username": "max",
+    "passwordHash": "$2b$10$Wi5/BfPPPLGu./nXuJZSfuPWWjDC2bNmkve4cb5X/CGWvCBmxw8E6",
+    "isAdmin": true,
+    "createdAt": "2026-07-24T16:37:02.350Z"
+  },
+  "gigi": {
+    "username": "gigi",
+    "passwordHash": "$2b$10$cqUVGTX0qtCRxvnxkJr1OOtZt3ut4gm7kp6GtLm6ParSZHAPFPOwS",
+    "isAdmin": false,
+    "createdAt": "2026-07-25T20:17:22.443Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "moodwave",
+  "version": "1.0.0",
+  "description": "AI-powered mood-based playlist generator for Navidrome",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.3",
+    "node-cron": "^3.0.3"
+  }
+}

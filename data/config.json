@@ -1,0 +1,10 @@
+{
+  "navidromeUrl": "https://music.tucholka.net",
+  "navidromeUser": "test",
+  "navidromePassword": "test123",
+  "ollamaUrl": "http://192.168.2.198:11434",
+  "ollamaModel": "qwen2.5-coder:7b",
+  "dailySongCount": 25,
+  "dailyGenerateHour": 6,
+  "dailyTimezone": "America/New_York"
+}

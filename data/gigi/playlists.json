@@ -1,0 +1,3439 @@
+[
+  {
+    "id": "daily-2026-07-27",
+    "name": "Daily Mix - 2026-07-27",
+    "prompt": "energetic morning coffee music, upbeat jazz, feel-good indie pop, morning motivation",
+    "songs": [
+      {
+        "id": "DJoZEIaBr7XbYxovwTJeKj",
+        "parent": "1tLlJOZbTVYuYOo3OAeGzZ",
+        "isDir": false,
+        "title": "blue",
+        "album": "blue",
+        "artist": "yung kai",
+        "track": 1,
+        "year": 2024,
+        "coverArt": "mf-DJoZEIaBr7XbYxovwTJeKj_697cb1ae",
+        "size": 18959535,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 214,
+        "bitRate": 703,
+        "path": "yung kai/blue/01-01 - blue.flac",
+        "playCount": 1,
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:34.022037288-05:00",
+        "albumId": "1tLlJOZbTVYuYOo3OAeGzZ",
+        "artistId": "7IGnWIBJHxjbDsfn6sa5Yq",
+        "type": "music",
+        "played": "2026-06-03T15:06:06.764-04:00",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "blue",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "7IGnWIBJHxjbDsfn6sa5Yq",
+            "name": "yung kai"
+          }
+        ],
+        "displayArtist": "yung kai",
+        "albumArtists": [
+          {
+            "id": "7IGnWIBJHxjbDsfn6sa5Yq",
+            "name": "yung kai"
+          }
+        ],
+        "displayAlbumArtist": "yung kai",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "yP1grmTKAwXVrZwO8o0CPG",
+        "parent": "5zq58ILjT2IL9bj8HSb4EX",
+        "isDir": false,
+        "title": "Skit #3 (Kanye West/Late Registration)",
+        "album": "Late Registration",
+        "artist": "Kanye West",
+        "track": 15,
+        "year": 2005,
+        "coverArt": "mf-yP1grmTKAwXVrZwO8o0CPG_69fc0e50",
+        "size": 3831797,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 24,
+        "bitRate": 510,
+        "path": "Kanye West/Late Registration/01-15 - Skit #3 (Kanye West_Late Registration).flac",
+        "discNumber": 1,
+        "created": "2026-05-20T13:35:48.995871942-04:00",
+        "albumId": "5zq58ILjT2IL9bj8HSb4EX",
+        "artistId": "02DiEqiNBn3idZvY8XP1lr",
+        "type": "music",
+        "bpm": 0,
+        "comment": "Downloaded with Athame 0.4.8.0.",
+        "sortName": "skit #3 (kanye west/late registration)",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayArtist": "Kanye West",
+        "albumArtists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayAlbumArtist": "Kanye West",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "4TmWB7f2oQdcRga0gtwEOI",
+        "parent": "4u7SFIlWX8Xs6Act8FHHIr",
+        "isDir": false,
+        "title": "What It Is (feat. Kanye West)",
+        "album": "What It Is (feat. Kanye West)",
+        "artist": "Sophia Fresh • Kanye West",
+        "track": 1,
+        "year": 2008,
+        "genre": "R&B",
+        "coverArt": "mf-4TmWB7f2oQdcRga0gtwEOI_69fbd930",
+        "size": 33817102,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 266,
+        "bitRate": 1014,
+        "path": "Sophia Fresh/What It Is (feat. Kanye West)/01-01 - What It Is (feat. Kanye West).flac",
+        "discNumber": 1,
+        "created": "2026-05-20T13:35:50.992540444-04:00",
+        "albumId": "4u7SFIlWX8Xs6Act8FHHIr",
+        "artistId": "7jaBi81lOx6XvH9aApVNuq",
+        "type": "music",
+        "bpm": 125,
+        "comment": "",
+        "sortName": "what it is (feat. kanye west)",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USAT20804245"
+        ],
+        "genres": [
+          {
+            "name": "R&B"
+          }
+        ],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "7jaBi81lOx6XvH9aApVNuq",
+            "name": "Sophia Fresh"
+          },
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayArtist": "Sophia Fresh • Kanye West",
+        "albumArtists": [
+          {
+            "id": "7jaBi81lOx6XvH9aApVNuq",
+            "name": "Sophia Fresh"
+          }
+        ],
+        "displayAlbumArtist": "Sophia Fresh",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "explicit",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "6js04LZeqb57MZGpx4Fa2E",
+        "parent": "75nqEEcHkU3h9nvb1OQAcH",
+        "isDir": false,
+        "title": "Go2DaMoon (feat. Kanye West)",
+        "album": "Whole Lotta Red",
+        "artist": "Playboi Carti, Kanye West",
+        "track": 2,
+        "year": 2020,
+        "coverArt": "mf-6js04LZeqb57MZGpx4Fa2E_697c8514",
+        "size": 12024774,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 119,
+        "bitRate": 800,
+        "path": "Playboi Carti/Whole Lotta Red/01-02 - Go2DaMoon (feat. Kanye West).flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:25.035525867-05:00",
+        "albumId": "75nqEEcHkU3h9nvb1OQAcH",
+        "artistId": "4xYClrpFfgYCH14isigcKY",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "go2damoon (feat. kanye west)",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "4xYClrpFfgYCH14isigcKY",
+            "name": "Playboi Carti, Kanye West"
+          }
+        ],
+        "displayArtist": "Playboi Carti, Kanye West",
+        "albumArtists": [
+          {
+            "id": "6UIQYMHOZTQawIYEKC7wpv",
+            "name": "Playboi Carti"
+          }
+        ],
+        "displayAlbumArtist": "Playboi Carti",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "ffdR4Khcrybr3bIsD8RBwb",
+        "parent": "1yEr9jIwcbYS9a6trMB5rC",
+        "isDir": false,
+        "title": "Watch (feat. Lil Uzi Vert & Kanye West)",
+        "album": "Watch (feat. Lil Uzi Vert & Kanye West)",
+        "artist": "Travis Scott • Lil Uzi Vert • Kanye West",
+        "track": 1,
+        "year": 2018,
+        "genre": "Alternative",
+        "coverArt": "mf-ffdR4Khcrybr3bIsD8RBwb_69fbd661",
+        "size": 25216040,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 217,
+        "bitRate": 918,
+        "path": "Travis Scott • Lil Uzi Vert • Kanye West/Watch (feat. Lil Uzi Vert & Kanye West)/01-01 - Watch (feat. Lil Uzi Vert & Kanye West).flac",
+        "discNumber": 1,
+        "created": "2026-05-20T13:35:51.660057997-04:00",
+        "albumId": "1yEr9jIwcbYS9a6trMB5rC",
+        "artistId": "5L95Del2yzb6IdPpjanEs5",
+        "type": "music",
+        "bpm": 157,
+        "comment": "",
+        "sortName": "watch (feat. lil uzi vert & kanye west)",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USSM11804504"
+        ],
+        "genres": [
+          {
+            "name": "Alternative"
+          },
+          {
+            "name": "Indie Pop"
+          },
+          {
+            "name": "Rap"
+          },
+          {
+            "name": "Hip Hop"
+          },
+          {
+            "name": "Pop"
+          },
+          {
+            "name": "Folk"
+          }
+        ],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "5L95Del2yzb6IdPpjanEs5",
+            "name": "Travis Scott"
+          },
+          {
+            "id": "0GPSRzQUYoxyk460EfzxjJ",
+            "name": "Lil Uzi Vert"
+          },
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayArtist": "Travis Scott • Lil Uzi Vert • Kanye West",
+        "albumArtists": [
+          {
+            "id": "5L95Del2yzb6IdPpjanEs5",
+            "name": "Travis Scott"
+          },
+          {
+            "id": "0GPSRzQUYoxyk460EfzxjJ",
+            "name": "Lil Uzi Vert"
+          },
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayAlbumArtist": "Travis Scott • Lil Uzi Vert • Kanye West",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "explicit",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "uY2snwnQShMJMk2RKUqTQv",
+        "parent": "5tqpglFG68BEsRNmfS009g",
+        "isDir": false,
+        "title": "petty",
+        "album": "stardust",
+        "artist": "Freya Skye",
+        "track": 2,
+        "year": 2026,
+        "coverArt": "mf-uY2snwnQShMJMk2RKUqTQv_69a50b06",
+        "size": 23741252,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 173,
+        "bitRate": 1034,
+        "path": "Freya Skye/stardust/01-02 - petty.flac",
+        "playCount": 42,
+        "discNumber": 1,
+        "created": "2026-03-01T23:01:39.388684852-05:00",
+        "albumId": "5tqpglFG68BEsRNmfS009g",
+        "artistId": "2pwCcGnwVbRV3OAcCa83TN",
+        "type": "music",
+        "played": "2026-06-19T12:22:06.212-04:00",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "petty",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 48000,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "2pwCcGnwVbRV3OAcCa83TN",
+            "name": "Freya Skye"
+          }
+        ],
+        "displayArtist": "Freya Skye",
+        "albumArtists": [
+          {
+            "id": "2pwCcGnwVbRV3OAcCa83TN",
+            "name": "Freya Skye"
+          }
+        ],
+        "displayAlbumArtist": "Freya Skye",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "DgV4xKnlBK0usDuKa0281K",
+        "parent": "56RVRSbpKjWYG7slzZN7IW",
+        "isDir": false,
+        "title": "Snow Angels - From \"ZOMBIES 4: Dawn of the Vampires\"",
+        "album": "Snow Angels (From \"ZOMBIES 4: Dawn of the Vampires\")",
+        "artist": "Freya Skye, Malachi Barton",
+        "track": 1,
+        "year": 2025,
+        "coverArt": "mf-DgV4xKnlBK0usDuKa0281K_69a50b61",
+        "size": 32602852,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 207,
+        "bitRate": 1216,
+        "path": "Freya Skye, Malachi Barton/Snow Angels (From \"ZOMBIES 4: Dawn of the Vampires\")/01-01 - Snow Angels - From \"ZOMBIES 4: Dawn of the Vampires\".flac",
+        "discNumber": 1,
+        "created": "2026-03-01T23:01:39.391811668-05:00",
+        "albumId": "56RVRSbpKjWYG7slzZN7IW",
+        "artistId": "1hzs10D8Y3vB4sYqT4ONV9",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "snow angels - from \"zombies 4: dawn of the vampires\"",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 48000,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "1hzs10D8Y3vB4sYqT4ONV9",
+            "name": "Freya Skye, Malachi Barton"
+          }
+        ],
+        "displayArtist": "Freya Skye, Malachi Barton",
+        "albumArtists": [
+          {
+            "id": "1hzs10D8Y3vB4sYqT4ONV9",
+            "name": "Freya Skye, Malachi Barton"
+          }
+        ],
+        "displayAlbumArtist": "Freya Skye, Malachi Barton",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "PG0nW2TxqBvltTsJU5wvLi",
+        "parent": "3MKvSbvclOXA7J76dM888F",
+        "isDir": false,
+        "title": "My Own Way",
+        "album": "ZOMBIES 4: Dawn of the Vampires (Original Soundtrack)",
+        "artist": "Freya Skye, ZOMBIES – Cast, Disney",
+        "track": 7,
+        "year": 2025,
+        "coverArt": "mf-PG0nW2TxqBvltTsJU5wvLi_69a50b28",
+        "size": 22280318,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 191,
+        "bitRate": 882,
+        "path": "ZOMBIES – Cast, Disney/ZOMBIES 4: Dawn of the Vampires (Original Soundtrack)/01-07 - My Own Way.flac",
+        "playCount": 28,
+        "discNumber": 1,
+        "created": "2026-03-01T23:01:39.396121435-05:00",
+        "albumId": "3MKvSbvclOXA7J76dM888F",
+        "artistId": "5vfCNZrcgjJjgEnZJ3OskK",
+        "type": "music",
+        "played": "2026-06-19T11:43:08.921-04:00",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "my own way",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USWD12537290"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "5vfCNZrcgjJjgEnZJ3OskK",
+            "name": "Freya Skye, ZOMBIES – Cast, Disney"
+          }
+        ],
+        "displayArtist": "Freya Skye, ZOMBIES – Cast, Disney",
+        "albumArtists": [
+          {
+            "id": "1FEJGvHmS68HRATX6ajBNd",
+            "name": "ZOMBIES – Cast, Disney"
+          }
+        ],
+        "displayAlbumArtist": "ZOMBIES – Cast, Disney",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "bvXgwUsKDfWqLL8PyAwQTf",
+        "parent": "5r6yFglVKw0ntpvBZcorqB",
+        "isDir": false,
+        "title": "That’s So True",
+        "album": "The Secret of Us (Deluxe)",
+        "artist": "Gracie Abrams",
+        "track": 15,
+        "year": 2024,
+        "coverArt": "mf-bvXgwUsKDfWqLL8PyAwQTf_697c4435",
+        "size": 20723606,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 166,
+        "bitRate": 991,
+        "path": "Gracie Abrams/The Secret of Us (Deluxe)/01-15 - That’s So True.flac",
+        "playCount": 85,
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:15.819692231-05:00",
+        "albumId": "5r6yFglVKw0ntpvBZcorqB",
+        "artistId": "0eOPCfbcCM00pXKsgXindS",
+        "type": "music",
+        "played": "2026-07-05T19:09:29.99-04:00",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "that's so true",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "0eOPCfbcCM00pXKsgXindS",
+            "name": "Gracie Abrams"
+          }
+        ],
+        "displayArtist": "Gracie Abrams",
+        "albumArtists": [
+          {
+            "id": "0eOPCfbcCM00pXKsgXindS",
+            "name": "Gracie Abrams"
+          }
+        ],
+        "displayAlbumArtist": "Gracie Abrams",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "43CvJ7sr3iNKiAEk17BO7y",
+        "parent": "30KULianof0qZuMkDCvFuB",
+        "isDir": false,
+        "title": "Mad at Disney",
+        "album": "(MORE) Unsponsored Content",
+        "artist": "salem ilese",
+        "track": 6,
+        "year": 2022,
+        "coverArt": "mf-43CvJ7sr3iNKiAEk17BO7y_699792ae",
+        "size": 14805237,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 136,
+        "bitRate": 855,
+        "path": "salem ilese/(MORE) Unsponsored Content/01-06 - Mad at Disney.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:33.956484625-05:00",
+        "albumId": "30KULianof0qZuMkDCvFuB",
+        "artistId": "3qzFb67IqsW5uKV3ZKQySt",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "mad at disney",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {
+          "trackGain": -8.06,
+          "trackPeak": 0.964966
+        },
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "3qzFb67IqsW5uKV3ZKQySt",
+            "name": "salem ilese"
+          }
+        ],
+        "displayArtist": "salem ilese",
+        "albumArtists": [
+          {
+            "id": "3qzFb67IqsW5uKV3ZKQySt",
+            "name": "salem ilese"
+          }
+        ],
+        "displayAlbumArtist": "salem ilese",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "UrYVvRzzEqsy69K0R6PxYE",
+        "parent": "7btOQPJyVVFN5GxVO19L8q",
+        "isDir": false,
+        "title": "All I Want",
+        "album": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "artist": "Olivia Rodrigo, Disney",
+        "track": 12,
+        "year": 2020,
+        "coverArt": "mf-UrYVvRzzEqsy69K0R6PxYE_697c4772",
+        "size": 18282172,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 177,
+        "bitRate": 817,
+        "path": "Cast of High School Musical: The Musical: The Series, Disney/High School Musical: The Musical: The Series (Original Soundtrack)/01-12 - All I Want.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:23.938680087-05:00",
+        "albumId": "7btOQPJyVVFN5GxVO19L8q",
+        "artistId": "0fzyXphXZZCw48d7eC4H03",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "all i want",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "0fzyXphXZZCw48d7eC4H03",
+            "name": "Olivia Rodrigo, Disney"
+          }
+        ],
+        "displayArtist": "Olivia Rodrigo, Disney",
+        "albumArtists": [
+          {
+            "id": "0Q7qvMnRWWqnBH4QwLf11c",
+            "name": "Cast of High School Musical: The Musical: The Series, Disney"
+          }
+        ],
+        "displayAlbumArtist": "Cast of High School Musical: The Musical: The Series, Disney",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "BVicDKhAHnfy9KiBJlV4zz",
+        "parent": "3Ml9a1GcOlw5imxgFOR4c9",
+        "isDir": false,
+        "title": "Lush Life",
+        "album": "So Good",
+        "artist": "Zara Larsson",
+        "track": 2,
+        "year": 2017,
+        "coverArt": "mf-BVicDKhAHnfy9KiBJlV4zz_697c2721",
+        "size": 25642545,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 200,
+        "bitRate": 1007,
+        "path": "Zara Larsson/So Good/01-02 - Lush Life.flac",
+        "playCount": 27,
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:33.322407753-05:00",
+        "albumId": "3Ml9a1GcOlw5imxgFOR4c9",
+        "artistId": "73EGzIQj6zlrxvtd4Ijl7l",
+        "type": "music",
+        "played": "2026-06-21T21:01:34.361-04:00",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "lush life",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "73EGzIQj6zlrxvtd4Ijl7l",
+            "name": "Zara Larsson"
+          }
+        ],
+        "displayArtist": "Zara Larsson",
+        "albumArtists": [
+          {
+            "id": "73EGzIQj6zlrxvtd4Ijl7l",
+            "name": "Zara Larsson"
+          }
+        ],
+        "displayAlbumArtist": "Zara Larsson",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "Ln0RQu6D9NMnPgBvkdgazk",
+        "parent": "209noc2gwrKoeRdNeq5vlp",
+        "isDir": false,
+        "title": "Symphony (feat. Zara Larsson)",
+        "album": "What Is Love? (Deluxe Edition)",
+        "artist": "Clean Bandit, Zara Larsson",
+        "track": 1,
+        "year": 2018,
+        "coverArt": "mf-Ln0RQu6D9NMnPgBvkdgazk_697c1979",
+        "size": 23776454,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 212,
+        "bitRate": 889,
+        "path": "Clean Bandit/What Is Love? (Deluxe Edition)/01-01 - Symphony (feat. Zara Larsson).flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:12.736528044-05:00",
+        "albumId": "209noc2gwrKoeRdNeq5vlp",
+        "artistId": "5qFylArXzOzCJ4acyZwYTR",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "symphony (feat. zara larsson)",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "5qFylArXzOzCJ4acyZwYTR",
+            "name": "Clean Bandit, Zara Larsson"
+          }
+        ],
+        "displayArtist": "Clean Bandit, Zara Larsson",
+        "albumArtists": [
+          {
+            "id": "4EhUxV7KQItRi1cl77Ljtz",
+            "name": "Clean Bandit"
+          }
+        ],
+        "displayAlbumArtist": "Clean Bandit",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "kDWEx6kHwie2Q01HrRmhqJ",
+        "parent": "6SZKaiDj3bF7DSaMISvRWn",
+        "isDir": false,
+        "title": "Mercy.1",
+        "album": "Kanye West Presents Good Music Cruel Summer",
+        "artist": "Kanye West",
+        "track": 3,
+        "year": 2012,
+        "coverArt": "mf-kDWEx6kHwie2Q01HrRmhqJ_69fbd764",
+        "size": 35823342,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 326,
+        "bitRate": 868,
+        "path": "Kanye West/Kanye West Presents Good Music Cruel Summer/01-03 - Mercy.1.flac",
+        "discNumber": 1,
+        "created": "2026-05-20T13:35:52.400440692-04:00",
+        "albumId": "6SZKaiDj3bF7DSaMISvRWn",
+        "artistId": "02DiEqiNBn3idZvY8XP1lr",
+        "type": "music",
+        "bpm": 0,
+        "comment": "Downloaded from music.binimum.org/tidal.squid.wtf",
+        "sortName": "mercy.1",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USUM71210090"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayArtist": "Kanye West",
+        "albumArtists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayAlbumArtist": "Kanye West",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "eOi9JbwlqZ89d1KNVuOmx0",
+        "parent": "1UjMMlctWv78td4vD8SnzG",
+        "isDir": false,
+        "title": "Champion",
+        "album": "Graduation",
+        "artist": "Kanye West",
+        "track": 2,
+        "year": 2007,
+        "coverArt": "mf-eOi9JbwlqZ89d1KNVuOmx0_697c9835",
+        "size": 18445628,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 167,
+        "bitRate": 874,
+        "path": "Kanye West/Graduation/01-02 - Champion.flac",
+        "playCount": 1,
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:18.838371472-05:00",
+        "albumId": "1UjMMlctWv78td4vD8SnzG",
+        "artistId": "02DiEqiNBn3idZvY8XP1lr",
+        "type": "music",
+        "played": "2026-05-21T21:26:54.982-04:00",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "champion",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayArtist": "Kanye West",
+        "albumArtists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayAlbumArtist": "Kanye West",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "s8Mekv5YmF2urCBUOi81RK",
+        "parent": "59GeLwnXCumUCDmCcfHzt0",
+        "isDir": false,
+        "title": "Champions",
+        "album": "Champions",
+        "artist": "Kanye West",
+        "track": 1,
+        "year": 2016,
+        "genre": "Rap",
+        "coverArt": "mf-s8Mekv5YmF2urCBUOi81RK_69fbd6a6",
+        "size": 42591791,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 334,
+        "bitRate": 1018,
+        "path": "Kanye West/Champions/01 - Champions.flac",
+        "created": "2026-05-20T13:35:48.992893605-04:00",
+        "albumId": "59GeLwnXCumUCDmCcfHzt0",
+        "artistId": "02DiEqiNBn3idZvY8XP1lr",
+        "type": "music",
+        "bpm": 0,
+        "comment": "",
+        "sortName": "champions",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [
+          {
+            "name": "Rap"
+          }
+        ],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayArtist": "Kanye West",
+        "albumArtists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayAlbumArtist": "Kanye West",
+        "contributors": [
+          {
+            "role": "composer",
+            "artist": {
+              "id": "02DiEqiNBn3idZvY8XP1lr",
+              "name": "Kanye West"
+            }
+          }
+        ],
+        "displayComposer": "Kanye West",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "m4cppedXL4B1kWoKkdcuxu",
+        "parent": "6E23vrpOyZOx8Xc9l9Nd4O",
+        "isDir": false,
+        "title": "Hurricane",
+        "album": "Donda",
+        "artist": "Kanye West",
+        "track": 5,
+        "year": 2021,
+        "genre": "Hip-Hop",
+        "coverArt": "mf-m4cppedXL4B1kWoKkdcuxu_69fbdc81",
+        "size": 49033727,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 243,
+        "bitRate": 1610,
+        "path": "Kanye West/Donda/05 - Hurricane.flac",
+        "created": "2026-05-20T13:35:47.060935712-04:00",
+        "albumId": "6E23vrpOyZOx8Xc9l9Nd4O",
+        "artistId": "02DiEqiNBn3idZvY8XP1lr",
+        "type": "music",
+        "bpm": 0,
+        "comment": "",
+        "sortName": "hurricane",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USUM72116311"
+        ],
+        "genres": [
+          {
+            "name": "Hip-Hop"
+          },
+          {
+            "name": "Rap"
+          }
+        ],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 48000,
+        "bitDepth": 24,
+        "moods": [],
+        "artists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayArtist": "Kanye West",
+        "albumArtists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayAlbumArtist": "Kanye West",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "OKtRQVUWGaumDvFc62lVhW",
+        "parent": "2zHJEsvmzGjMhxsJ22lXU6",
+        "isDir": false,
+        "title": "Yikes",
+        "album": "ye",
+        "artist": "Kanye West",
+        "track": 2,
+        "year": 2018,
+        "coverArt": "mf-OKtRQVUWGaumDvFc62lVhW_69fbf5ad",
+        "size": 21408379,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 188,
+        "bitRate": 903,
+        "path": "Kanye West/ye/01-02 - Yikes.flac",
+        "discNumber": 1,
+        "created": "2026-05-20T13:35:52.783852975-04:00",
+        "albumId": "2zHJEsvmzGjMhxsJ22lXU6",
+        "artistId": "02DiEqiNBn3idZvY8XP1lr",
+        "type": "music",
+        "bpm": 0,
+        "comment": "",
+        "sortName": "yikes",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USUM71807679"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayArtist": "Kanye West",
+        "albumArtists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayAlbumArtist": "Kanye West",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "WFXmpoelYiuqZcWP1dQNoi",
+        "parent": "7jtaSfPPC7Dn48J4KkqjS6",
+        "isDir": false,
+        "title": "Spaceship",
+        "album": "The College Dropout",
+        "artist": "Kanye West",
+        "track": 6,
+        "year": 2003,
+        "genre": "Hip-Hop",
+        "coverArt": "mf-WFXmpoelYiuqZcWP1dQNoi_69fbe18e",
+        "size": 37502717,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 324,
+        "bitRate": 922,
+        "path": "Kanye West/The College Dropout/01-06 - Spaceship.flac",
+        "discNumber": 1,
+        "created": "2026-05-20T13:35:46.728064991-04:00",
+        "albumId": "7jtaSfPPC7Dn48J4KkqjS6",
+        "artistId": "02DiEqiNBn3idZvY8XP1lr",
+        "type": "music",
+        "bpm": 0,
+        "comment": "EAC v0.95b3 secure mode with test and copy, FLAC v1.1.2 Win32 V8 Quality",
+        "sortName": "spaceship",
+        "mediaType": "song",
+        "musicBrainzId": "f64b748e-9cc3-4103-b8ee-47f11b5b1083",
+        "isrc": [],
+        "genres": [
+          {
+            "name": "Hip-Hop"
+          }
+        ],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayArtist": "Kanye West",
+        "albumArtists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayAlbumArtist": "Kanye West",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "uND4Q8W31Zg7rxxhEY5epP",
+        "parent": "6UsvXBrqTSVaB9sgecfWSk",
+        "isDir": false,
+        "title": "Addiction",
+        "album": "Late Registration",
+        "artist": "Kanye West",
+        "track": 11,
+        "year": 2006,
+        "coverArt": "mf-uND4Q8W31Zg7rxxhEY5epP_69fbe03a",
+        "size": 28716503,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 267,
+        "bitRate": 856,
+        "path": "Kanye West/Late Registration/01-11 - Addiction.flac",
+        "discNumber": 1,
+        "created": "2026-05-20T13:35:49.42819104-04:00",
+        "albumId": "6UsvXBrqTSVaB9sgecfWSk",
+        "artistId": "02DiEqiNBn3idZvY8XP1lr",
+        "type": "music",
+        "bpm": 0,
+        "comment": "",
+        "sortName": "addiction",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USUM70502536"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayArtist": "Kanye West",
+        "albumArtists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayAlbumArtist": "Kanye West",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      }
+    ],
+    "createdAt": "2026-07-27T10:00:14.334Z",
+    "isDaily": true
+  },
+  {
+    "id": "daily-2026-07-26",
+    "name": "Daily Mix - 2026-07-26",
+    "prompt": "energetic morning coffee music, upbeat jazz, feel-good indie pop, morning motivation",
+    "songs": [
+      {
+        "id": "QQiZkVCfoQkhHrh4wyXvSC",
+        "parent": "5KoFkUCfHGyJ1cIFlzO3qi",
+        "isDir": false,
+        "title": "Pipelinefunk",
+        "album": "Röhrensound",
+        "artist": "Armin Küpper",
+        "track": 2,
+        "year": 2020,
+        "coverArt": "mf-QQiZkVCfoQkhHrh4wyXvSC_697cb62b",
+        "size": 11791613,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 236,
+        "bitRate": 395,
+        "path": "Armin Küpper/Röhrensound/01-02 - Pipelinefunk.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:10.894353782-05:00",
+        "albumId": "5KoFkUCfHGyJ1cIFlzO3qi",
+        "artistId": "5nOf7F26TKEb6qtgZ7RDNb",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "pipelinefunk",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "5nOf7F26TKEb6qtgZ7RDNb",
+            "name": "Armin Küpper"
+          }
+        ],
+        "displayArtist": "Armin Küpper",
+        "albumArtists": [
+          {
+            "id": "5nOf7F26TKEb6qtgZ7RDNb",
+            "name": "Armin Küpper"
+          }
+        ],
+        "displayAlbumArtist": "Armin Küpper",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "vgdMkoLtXGvTur3UkgzkEO",
+        "parent": "3vb4ppyuDDTddihbwLp2Uh",
+        "isDir": false,
+        "title": "R U Mine?",
+        "album": "AM",
+        "artist": "Arctic Monkeys",
+        "track": 2,
+        "year": 2013,
+        "coverArt": "mf-vgdMkoLtXGvTur3UkgzkEO_697c3bc5",
+        "size": 24590255,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 201,
+        "bitRate": 974,
+        "path": "Arctic Monkeys/AM/01-02 - R U Mine?.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:10.770909955-05:00",
+        "albumId": "3vb4ppyuDDTddihbwLp2Uh",
+        "artistId": "42AeaghSVsS1oWaeLVmBOK",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "r u mine?",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "42AeaghSVsS1oWaeLVmBOK",
+            "name": "Arctic Monkeys"
+          }
+        ],
+        "displayArtist": "Arctic Monkeys",
+        "albumArtists": [
+          {
+            "id": "42AeaghSVsS1oWaeLVmBOK",
+            "name": "Arctic Monkeys"
+          }
+        ],
+        "displayAlbumArtist": "Arctic Monkeys",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "P73bXMqhplrQAYkJXhYSUl",
+        "parent": "4qyEWAqX77Ckj8naoVfeGw",
+        "isDir": false,
+        "title": "Walk On the Wild Side",
+        "album": "Transformer",
+        "artist": "Lou Reed",
+        "track": 5,
+        "year": 1972,
+        "coverArt": "mf-P73bXMqhplrQAYkJXhYSUl_699c94c2",
+        "size": 90707786,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 255,
+        "bitRate": 2827,
+        "path": "Lou Reed/Transformer/01-05 - Walk On the Wild Side.flac",
+        "discNumber": 1,
+        "created": "2026-02-23T22:19:34.272059959-05:00",
+        "albumId": "4qyEWAqX77Ckj8naoVfeGw",
+        "artistId": "5BTW7Iaof8VNbXl4L0B9bn",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "walk on the wild side",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USRC17201948"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 96000,
+        "bitDepth": 24,
+        "moods": [],
+        "artists": [
+          {
+            "id": "5BTW7Iaof8VNbXl4L0B9bn",
+            "name": "Lou Reed"
+          }
+        ],
+        "displayArtist": "Lou Reed",
+        "albumArtists": [
+          {
+            "id": "5BTW7Iaof8VNbXl4L0B9bn",
+            "name": "Lou Reed"
+          }
+        ],
+        "displayAlbumArtist": "Lou Reed",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "wN1I0lvlqGZl6YclBhCpVF",
+        "parent": "4yF5mzmKM83K7UP3xns6xC",
+        "isDir": false,
+        "title": "All Night Long (All Night) - Single Version",
+        "album": "The Definitive Collection",
+        "artist": "Lionel Richie",
+        "track": 7,
+        "year": 2003,
+        "coverArt": "mf-wN1I0lvlqGZl6YclBhCpVF_699ca121",
+        "size": 30206684,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 260,
+        "bitRate": 909,
+        "path": "Lionel Richie/The Definitive Collection/01-07 - All Night Long (All Night) - Single Version.flac",
+        "discNumber": 1,
+        "created": "2026-02-23T22:19:34.089584283-05:00",
+        "albumId": "4yF5mzmKM83K7UP3xns6xC",
+        "artistId": "0PISYSoWqo0dqAxLnd3S4i",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "all night long (all night) - single version",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USMO18390005"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "0PISYSoWqo0dqAxLnd3S4i",
+            "name": "Lionel Richie"
+          }
+        ],
+        "displayArtist": "Lionel Richie",
+        "albumArtists": [
+          {
+            "id": "0PISYSoWqo0dqAxLnd3S4i",
+            "name": "Lionel Richie"
+          }
+        ],
+        "displayAlbumArtist": "Lionel Richie",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "2Jk1J0Ls3KUNxvHTwjl633",
+        "parent": "06DjnnRReUfc4YAHHhUHAG",
+        "isDir": false,
+        "title": "Sweet Emotion",
+        "album": "Toys In The Attic",
+        "artist": "Aerosmith",
+        "track": 6,
+        "year": 1975,
+        "coverArt": "mf-2Jk1J0Ls3KUNxvHTwjl633_699c9f3f",
+        "size": 31979878,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 274,
+        "bitRate": 914,
+        "path": "Aerosmith/Toys In The Attic/01-06 - Sweet Emotion.flac",
+        "discNumber": 1,
+        "created": "2026-02-23T22:19:17.645542377-05:00",
+        "albumId": "06DjnnRReUfc4YAHHhUHAG",
+        "artistId": "3IuN91bZn6R4OGPP2GYfdO",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "sweet emotion",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USSM19906482"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "3IuN91bZn6R4OGPP2GYfdO",
+            "name": "Aerosmith"
+          }
+        ],
+        "displayArtist": "Aerosmith",
+        "albumArtists": [
+          {
+            "id": "3IuN91bZn6R4OGPP2GYfdO",
+            "name": "Aerosmith"
+          }
+        ],
+        "displayAlbumArtist": "Aerosmith",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "iah00j0D0dRTtc1AFe8rXW",
+        "parent": "5uW3RtL4hWMn96vQxgncPo",
+        "isDir": false,
+        "title": "leather jacket",
+        "album": "A Great Chaos (Deluxe)",
+        "artist": "Ken Carson",
+        "track": 22,
+        "year": 2024,
+        "coverArt": "mf-iah00j0D0dRTtc1AFe8rXW_697cada1",
+        "size": 18746499,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 157,
+        "bitRate": 948,
+        "path": "Ken Carson/A Great Chaos (Deluxe)/01-22 - leather jacket.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:19.225950819-05:00",
+        "albumId": "5uW3RtL4hWMn96vQxgncPo",
+        "artistId": "3ks9xaJdXlA2uOTXE9DI8b",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "leather jacket",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "3ks9xaJdXlA2uOTXE9DI8b",
+            "name": "Ken Carson"
+          }
+        ],
+        "displayArtist": "Ken Carson",
+        "albumArtists": [
+          {
+            "id": "3ks9xaJdXlA2uOTXE9DI8b",
+            "name": "Ken Carson"
+          }
+        ],
+        "displayAlbumArtist": "Ken Carson",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "p9pgTEK9SiPgyXhFGzPYnh",
+        "parent": "38yQRQVGqnxm0qWSpR2XQC",
+        "isDir": false,
+        "title": "Lose Yourself",
+        "album": "Curtain Call: The Hits (Deluxe Edition)",
+        "artist": "Eminem",
+        "track": 6,
+        "year": 2005,
+        "coverArt": "mf-p9pgTEK9SiPgyXhFGzPYnh_697c1fc1",
+        "size": 33140484,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 326,
+        "bitRate": 808,
+        "path": "Eminem/Curtain Call: The Hits (Deluxe Edition)/01-06 - Lose Yourself.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:14.438751113-05:00",
+        "albumId": "38yQRQVGqnxm0qWSpR2XQC",
+        "artistId": "6XNNZ2unNfO5jx1J4xYNBS",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "lose yourself",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "6XNNZ2unNfO5jx1J4xYNBS",
+            "name": "Eminem"
+          }
+        ],
+        "displayArtist": "Eminem",
+        "albumArtists": [
+          {
+            "id": "6XNNZ2unNfO5jx1J4xYNBS",
+            "name": "Eminem"
+          }
+        ],
+        "displayAlbumArtist": "Eminem",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "UPPwIOm7t4SlbLJfOfX9EV",
+        "parent": "6kvdh4PjHAKTvmEBjKJCQZ",
+        "isDir": false,
+        "title": "F.N",
+        "album": "True 2 Myself",
+        "artist": "Lil Tjay",
+        "track": 3,
+        "year": 2019,
+        "coverArt": "mf-UPPwIOm7t4SlbLJfOfX9EV_697c7034",
+        "size": 24103025,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 224,
+        "bitRate": 858,
+        "path": "Lil Tjay/True 2 Myself/01-03 - F.N.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:20.781231118-05:00",
+        "albumId": "6kvdh4PjHAKTvmEBjKJCQZ",
+        "artistId": "4KITpbAbvAhvKWAiwjJOQQ",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "f.n",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "4KITpbAbvAhvKWAiwjJOQQ",
+            "name": "Lil Tjay"
+          }
+        ],
+        "displayArtist": "Lil Tjay",
+        "albumArtists": [
+          {
+            "id": "4KITpbAbvAhvKWAiwjJOQQ",
+            "name": "Lil Tjay"
+          }
+        ],
+        "displayAlbumArtist": "Lil Tjay",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "aXvg5K7C9f5KMGIPGB1AUZ",
+        "parent": "3pWUuyVruXx84f5e39iwfU",
+        "isDir": false,
+        "title": "Slidin",
+        "album": "SAVAGE MODE II",
+        "artist": "21 Savage, Metro Boomin",
+        "track": 6,
+        "year": 2020,
+        "coverArt": "mf-aXvg5K7C9f5KMGIPGB1AUZ_697c90c3",
+        "size": 21110568,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 185,
+        "bitRate": 901,
+        "path": "21 Savage, Metro Boomin/SAVAGE MODE II/01-06 - Slidin.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:09.940605998-05:00",
+        "albumId": "3pWUuyVruXx84f5e39iwfU",
+        "artistId": "7tOg4KD4gYNIKPfTzlL0GS",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "slidin",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "7tOg4KD4gYNIKPfTzlL0GS",
+            "name": "21 Savage, Metro Boomin"
+          }
+        ],
+        "displayArtist": "21 Savage, Metro Boomin",
+        "albumArtists": [
+          {
+            "id": "7tOg4KD4gYNIKPfTzlL0GS",
+            "name": "21 Savage, Metro Boomin"
+          }
+        ],
+        "displayAlbumArtist": "21 Savage, Metro Boomin",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "40YSK4TwFwoeWz0UMB3WPc",
+        "parent": "75TAJ7NehpF2iCjwAIofBs",
+        "isDir": false,
+        "title": "RITMO (Bad Boys For Life)",
+        "album": "TRANSLATION",
+        "artist": "Black Eyed Peas, J Balvin",
+        "track": 1,
+        "year": 2020,
+        "coverArt": "mf-40YSK4TwFwoeWz0UMB3WPc_697c3943",
+        "size": 24944129,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 221,
+        "bitRate": 896,
+        "path": "Black Eyed Peas/TRANSLATION/01-01 - RITMO (Bad Boys For Life).flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:11.707319532-05:00",
+        "albumId": "75TAJ7NehpF2iCjwAIofBs",
+        "artistId": "3C83zV25kzdp6M6ScpCJ0y",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "ritmo (bad boys for life)",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "3C83zV25kzdp6M6ScpCJ0y",
+            "name": "Black Eyed Peas, J Balvin"
+          }
+        ],
+        "displayArtist": "Black Eyed Peas, J Balvin",
+        "albumArtists": [
+          {
+            "id": "0QHmeQTzFOkLX7cCOV0KBg",
+            "name": "Black Eyed Peas"
+          }
+        ],
+        "displayAlbumArtist": "Black Eyed Peas",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "n1LeINOJy1uzmommz7zXlN",
+        "parent": "1gUsWI2JbLnXfonBBqN3oo",
+        "isDir": false,
+        "title": "THE SCOTTS",
+        "album": "THE SCOTTS",
+        "artist": "THE SCOTTS, Travis Scott, Kid Cudi",
+        "track": 1,
+        "year": 2020,
+        "coverArt": "mf-n1LeINOJy1uzmommz7zXlN_697c7080",
+        "size": 16481554,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 165,
+        "bitRate": 789,
+        "path": "THE SCOTTS, Travis Scott, Kid Cudi/THE SCOTTS/01-01 - THE SCOTTS.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:28.15445114-05:00",
+        "albumId": "1gUsWI2JbLnXfonBBqN3oo",
+        "artistId": "57zETyz2X3SQcz95HiIdBu",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "the scotts",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "57zETyz2X3SQcz95HiIdBu",
+            "name": "THE SCOTTS, Travis Scott, Kid Cudi"
+          }
+        ],
+        "displayArtist": "THE SCOTTS, Travis Scott, Kid Cudi",
+        "albumArtists": [
+          {
+            "id": "57zETyz2X3SQcz95HiIdBu",
+            "name": "THE SCOTTS, Travis Scott, Kid Cudi"
+          }
+        ],
+        "displayAlbumArtist": "THE SCOTTS, Travis Scott, Kid Cudi",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "HI5cReEMl3v3UJHuE5gn5q",
+        "parent": "2thVemY8LbzpSwHKEhZdfR",
+        "isDir": false,
+        "title": "I'm Not Okay (I Promise)",
+        "album": "Three Cheers for Sweet Revenge",
+        "artist": "My Chemical Romance",
+        "track": 5,
+        "year": 2004,
+        "coverArt": "mf-HI5cReEMl3v3UJHuE5gn5q_699cb50b",
+        "size": 24795969,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 188,
+        "bitRate": 1034,
+        "path": "My Chemical Romance/Three Cheers for Sweet Revenge/01-05 - I'm Not Okay (I Promise).flac",
+        "discNumber": 1,
+        "created": "2026-02-23T22:19:36.518776931-05:00",
+        "albumId": "2thVemY8LbzpSwHKEhZdfR",
+        "artistId": "7vFn7gcNFJJIwt9GIOVmX4",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "i'm not okay (i promise)",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USRE10400660"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "7vFn7gcNFJJIwt9GIOVmX4",
+            "name": "My Chemical Romance"
+          }
+        ],
+        "displayArtist": "My Chemical Romance",
+        "albumArtists": [
+          {
+            "id": "7vFn7gcNFJJIwt9GIOVmX4",
+            "name": "My Chemical Romance"
+          }
+        ],
+        "displayAlbumArtist": "My Chemical Romance",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "8LdXIGkpS1toOjznzhbUXY",
+        "parent": "4cCymK8973lsgMf7Fc3CF2",
+        "isDir": false,
+        "title": "YELLOW TAPE",
+        "album": "YELLOW TAPE",
+        "artist": "jmancurly",
+        "track": 1,
+        "year": 2023,
+        "coverArt": "mf-8LdXIGkpS1toOjznzhbUXY_699e6b39",
+        "size": 10408950,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 97,
+        "bitRate": 814,
+        "path": "jmancurly/YELLOW TAPE/01-01 - YELLOW TAPE.flac",
+        "discNumber": 1,
+        "created": "2026-02-24T22:31:44.061503103-05:00",
+        "albumId": "4cCymK8973lsgMf7Fc3CF2",
+        "artistId": "5wbL7wxPEEyyICvFuMyrVG",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "yellow tape",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "QZTAU2303118"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "5wbL7wxPEEyyICvFuMyrVG",
+            "name": "jmancurly"
+          }
+        ],
+        "displayArtist": "jmancurly",
+        "albumArtists": [
+          {
+            "id": "5wbL7wxPEEyyICvFuMyrVG",
+            "name": "jmancurly"
+          }
+        ],
+        "displayAlbumArtist": "jmancurly",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "ZpKP6Aah9ApH2z4KDGwTYn",
+        "parent": "52vMH3B6QdUZ2u8NRxV2nh",
+        "isDir": false,
+        "title": "Dark Red",
+        "album": "Dark Red",
+        "artist": "Steve Lacy",
+        "track": 1,
+        "year": 2017,
+        "coverArt": "mf-ZpKP6Aah9ApH2z4KDGwTYn_697c30d0",
+        "size": 17954089,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 173,
+        "bitRate": 824,
+        "path": "Steve Lacy/Dark Red/01-01 - Dark Red.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:27.884844922-05:00",
+        "albumId": "52vMH3B6QdUZ2u8NRxV2nh",
+        "artistId": "3kS0ySISkYPwDV2Eoi6hFq",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "dark red",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "3kS0ySISkYPwDV2Eoi6hFq",
+            "name": "Steve Lacy"
+          }
+        ],
+        "displayArtist": "Steve Lacy",
+        "albumArtists": [
+          {
+            "id": "3kS0ySISkYPwDV2Eoi6hFq",
+            "name": "Steve Lacy"
+          }
+        ],
+        "displayAlbumArtist": "Steve Lacy",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "ttNuvOU3HrtL5ORMexKLv0",
+        "parent": "0reAYotKh9KWlRU0i8w817",
+        "isDir": false,
+        "title": "Bitch, Don’t Kill My Vibe",
+        "album": "good kid, m.A.A.d city",
+        "artist": "Kendrick Lamar",
+        "track": 2,
+        "year": 2012,
+        "coverArt": "mf-ttNuvOU3HrtL5ORMexKLv0_697c6f29",
+        "size": 33966834,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 310,
+        "bitRate": 871,
+        "path": "Kendrick Lamar/good kid, m.A.A.d city/01-02 - Bitch, Don’t Kill My Vibe.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:19.33245374-05:00",
+        "albumId": "0reAYotKh9KWlRU0i8w817",
+        "artistId": "4KtCzMRnippZbvbfF994fP",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "bitch, don't kill my vibe",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "4KtCzMRnippZbvbfF994fP",
+            "name": "Kendrick Lamar"
+          }
+        ],
+        "displayArtist": "Kendrick Lamar",
+        "albumArtists": [
+          {
+            "id": "4KtCzMRnippZbvbfF994fP",
+            "name": "Kendrick Lamar"
+          }
+        ],
+        "displayAlbumArtist": "Kendrick Lamar",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "hTJEvmAFP177lolW8qL1yP",
+        "parent": "78vLS8wgrfq3Bi5ZBLvcQQ",
+        "isDir": false,
+        "title": "Crew Love",
+        "album": "Take Care (Deluxe)",
+        "artist": "Drake, The Weeknd",
+        "track": 4,
+        "year": 2011,
+        "coverArt": "mf-hTJEvmAFP177lolW8qL1yP_697c9a5d",
+        "size": 24788545,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 208,
+        "bitRate": 944,
+        "path": "Drake/Take Care (Deluxe)/01-04 - Crew Love.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:14.000775178-05:00",
+        "albumId": "78vLS8wgrfq3Bi5ZBLvcQQ",
+        "artistId": "2FNyrkNXVac6sAB1Lb8GVw",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "crew love",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "2FNyrkNXVac6sAB1Lb8GVw",
+            "name": "Drake, The Weeknd"
+          }
+        ],
+        "displayArtist": "Drake, The Weeknd",
+        "albumArtists": [
+          {
+            "id": "2Y09fvZjxV9n5twPmfCTDz",
+            "name": "Drake"
+          }
+        ],
+        "displayAlbumArtist": "Drake",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "9clCDxrYRKXVtM1JZx87GQ",
+        "parent": "6mJKZUGws3k0AeyG0CBSJu",
+        "isDir": false,
+        "title": "MAD I GOT IT | MAD 1 GOT 1T",
+        "album": "TA13OO",
+        "artist": "Denzel Curry",
+        "track": 3,
+        "year": 2018,
+        "coverArt": "mf-9clCDxrYRKXVtM1JZx87GQ_697c8f07",
+        "size": 27487915,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 232,
+        "bitRate": 944,
+        "path": "Denzel Curry/TA13OO/01-03 - MAD I GOT IT | MAD 1 GOT 1T.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:13.564760731-05:00",
+        "albumId": "6mJKZUGws3k0AeyG0CBSJu",
+        "artistId": "59YUQQAgyrCJGSy5m73CuP",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "mad i got it | mad 1 got 1t",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "59YUQQAgyrCJGSy5m73CuP",
+            "name": "Denzel Curry"
+          }
+        ],
+        "displayArtist": "Denzel Curry",
+        "albumArtists": [
+          {
+            "id": "59YUQQAgyrCJGSy5m73CuP",
+            "name": "Denzel Curry"
+          }
+        ],
+        "displayAlbumArtist": "Denzel Curry",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "CoVDxvEUYsM996TvHt4p2d",
+        "parent": "2PrVtwfq7g4A0TRHZOcyhM",
+        "isDir": false,
+        "title": "Don't Stop Me Now - Remastered 2011",
+        "album": "Jazz (Deluxe Remastered Version)",
+        "artist": "Queen",
+        "track": 12,
+        "year": 1978,
+        "coverArt": "mf-CoVDxvEUYsM996TvHt4p2d_697c2131",
+        "size": 25787615,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 209,
+        "bitRate": 979,
+        "path": "Queen/Jazz (Deluxe Remastered Version)/01-12 - Don't Stop Me Now - Remastered 2011.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:25.563223241-05:00",
+        "albumId": "2PrVtwfq7g4A0TRHZOcyhM",
+        "artistId": "3Ip9OhiD4x1NDAKaSF7NQW",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "don't stop me now - remastered 2011",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "3Ip9OhiD4x1NDAKaSF7NQW",
+            "name": "Queen"
+          }
+        ],
+        "displayArtist": "Queen",
+        "albumArtists": [
+          {
+            "id": "3Ip9OhiD4x1NDAKaSF7NQW",
+            "name": "Queen"
+          }
+        ],
+        "displayAlbumArtist": "Queen",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "VnZ0VLVEcEbExXvUSutKVT",
+        "parent": "64IO6S0esjdAPwAalzTNl6",
+        "isDir": false,
+        "title": "Heard ’Em Say",
+        "album": "Late Registration",
+        "artist": "Ye",
+        "track": 2,
+        "year": 2005,
+        "genre": "Hip Hop",
+        "coverArt": "mf-VnZ0VLVEcEbExXvUSutKVT_69fbdf5b",
+        "size": 20514121,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 203,
+        "bitRate": 798,
+        "path": "Ye/Late Registration/01-02 - Heard ’Em Say.flac",
+        "discNumber": 1,
+        "created": "2026-05-20T13:35:49.40725177-04:00",
+        "albumId": "64IO6S0esjdAPwAalzTNl6",
+        "artistId": "3rNgp5ZP4ZJ1KyKufSvbDO",
+        "type": "music",
+        "bpm": 0,
+        "comment": "",
+        "sortName": "heard 'em say",
+        "mediaType": "song",
+        "musicBrainzId": "0ee6c11f-0952-4381-aa87-abc7446e5314",
+        "isrc": [
+          "USUM70502535"
+        ],
+        "genres": [
+          {
+            "name": "Hip Hop"
+          },
+          {
+            "name": "Conscious Hip Hop"
+          },
+          {
+            "name": "Pop Rap"
+          }
+        ],
+        "replayGain": {
+          "trackGain": -9.5
+        },
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "3rNgp5ZP4ZJ1KyKufSvbDO",
+            "name": "Ye"
+          }
+        ],
+        "displayArtist": "Ye",
+        "albumArtists": [
+          {
+            "id": "3rNgp5ZP4ZJ1KyKufSvbDO",
+            "name": "Ye"
+          }
+        ],
+        "displayAlbumArtist": "Ye",
+        "contributors": [
+          {
+            "role": "composer",
+            "artist": {
+              "id": "02DiEqiNBn3idZvY8XP1lr",
+              "name": "Kanye West"
+            }
+          },
+          {
+            "role": "composer",
+            "artist": {
+              "id": "0nedV7EOTmUoXT89xnfK2i",
+              "name": "Adam Levine"
+            }
+          },
+          {
+            "role": "composer",
+            "artist": {
+              "id": "4dh224EZuLXUi3saBndqVr",
+              "name": "M. Masser"
+            }
+          },
+          {
+            "role": "composer",
+            "artist": {
+              "id": "3mDdRG4ISB3uzYmPfpGXcp",
+              "name": "Gerry Goffin"
+            }
+          }
+        ],
+        "displayComposer": "Kanye West • Adam Levine • M. Masser • Gerry Goffin",
+        "explicitStatus": "explicit",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "nS8Q1j1iNHqlZqFQKjoFnM",
+        "parent": "56yyVSxKzuTxoR6MDcX8oc",
+        "isDir": false,
+        "title": "Gangster Shit",
+        "album": "Gangster Shit",
+        "artist": "Young Thug",
+        "track": 1,
+        "year": 2016,
+        "coverArt": "mf-nS8Q1j1iNHqlZqFQKjoFnM_697c7d73",
+        "size": 16310454,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 160,
+        "bitRate": 805,
+        "path": "Young Thug/Gangster Shit/01-01 - Gangster Shit.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:32.437065016-05:00",
+        "albumId": "56yyVSxKzuTxoR6MDcX8oc",
+        "artistId": "2SUH2dkitPcE2jFbBxzJY9",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "gangster shit",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "2SUH2dkitPcE2jFbBxzJY9",
+            "name": "Young Thug"
+          }
+        ],
+        "displayArtist": "Young Thug",
+        "albumArtists": [
+          {
+            "id": "2SUH2dkitPcE2jFbBxzJY9",
+            "name": "Young Thug"
+          }
+        ],
+        "displayAlbumArtist": "Young Thug",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      }
+    ],
+    "createdAt": "2026-07-26T10:00:13.914Z",
+    "isDaily": true
+  },
+  {
+    "id": "daily-2026-07-25",
+    "name": "Daily Mix - 2026-07-25",
+    "prompt": "afternoon energy boost, indie rock, synthwave, alt-pop",
+    "songs": [
+      {
+        "id": "aZ7jVYbJXDPnGtzVNsuapu",
+        "parent": "2jQWFJexK1h8enpjcjGwbF",
+        "isDir": false,
+        "title": "Abra Macabre",
+        "album": "Call of Duty: Black Ops – Zombies (Original Game Soundtrack)",
+        "artist": "Kevin Sherwood",
+        "track": 3,
+        "year": 2011,
+        "coverArt": "mf-aZ7jVYbJXDPnGtzVNsuapu_697ca2f8",
+        "size": 23112229,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 186,
+        "bitRate": 986,
+        "path": "Kevin Sherwood, James McCawley, Brian Tuey/Call of Duty: Black Ops – Zombies (Original Game Soundtrack)/01-03 - Abra Macabre.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:19.649396268-05:00",
+        "albumId": "2jQWFJexK1h8enpjcjGwbF",
+        "artistId": "4qyLlfomAv6nOtVz58ZVOa",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "abra macabre",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "4qyLlfomAv6nOtVz58ZVOa",
+            "name": "Kevin Sherwood"
+          }
+        ],
+        "displayArtist": "Kevin Sherwood",
+        "albumArtists": [
+          {
+            "id": "1pEc4KYdrtWjeHevrcFNON",
+            "name": "Kevin Sherwood, James McCawley, Brian Tuey"
+          }
+        ],
+        "displayAlbumArtist": "Kevin Sherwood, James McCawley, Brian Tuey",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "D8m8mjuComhWF7eOxf2F2j",
+        "parent": "6kTQxzzxk5JAyOuyy9upwU",
+        "isDir": false,
+        "title": "Castle",
+        "album": "Castle",
+        "artist": "Clarx, Harddope",
+        "track": 1,
+        "year": 2020,
+        "coverArt": "mf-D8m8mjuComhWF7eOxf2F2j_697c1cfb",
+        "size": 19449397,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 158,
+        "bitRate": 976,
+        "path": "Clarx, Harddope/Castle/01-01 - Castle.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:12.715922237-05:00",
+        "albumId": "6kTQxzzxk5JAyOuyy9upwU",
+        "artistId": "2mlrUFxjhAMyB68qSKtKQz",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "castle",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "2mlrUFxjhAMyB68qSKtKQz",
+            "name": "Clarx, Harddope"
+          }
+        ],
+        "displayArtist": "Clarx, Harddope",
+        "albumArtists": [
+          {
+            "id": "2mlrUFxjhAMyB68qSKtKQz",
+            "name": "Clarx, Harddope"
+          }
+        ],
+        "displayAlbumArtist": "Clarx, Harddope",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "efxG69lIc4xoRuGpI6gmTz",
+        "parent": "2STQHbZoO8PZVtxSZBEwnX",
+        "isDir": false,
+        "title": "Ballin' (with Roddy Ricch)",
+        "album": "Perfect Ten",
+        "artist": "Mustard, Roddy Ricch",
+        "track": 9,
+        "year": 2019,
+        "coverArt": "mf-efxG69lIc4xoRuGpI6gmTz_697c47ff",
+        "size": 18465531,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 180,
+        "bitRate": 815,
+        "path": "Mustard/Perfect Ten/01-09 - Ballin' (with Roddy Ricch).flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:23.005675084-05:00",
+        "albumId": "2STQHbZoO8PZVtxSZBEwnX",
+        "artistId": "4ev0l7gHQ4GOIjJ57O3y69",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "ballin' (with roddy ricch)",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "4ev0l7gHQ4GOIjJ57O3y69",
+            "name": "Mustard, Roddy Ricch"
+          }
+        ],
+        "displayArtist": "Mustard, Roddy Ricch",
+        "albumArtists": [
+          {
+            "id": "6ZxufILZPhJPCw9oTnbZCY",
+            "name": "Mustard"
+          }
+        ],
+        "displayAlbumArtist": "Mustard",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "UfzVKt2hJ0hMsMYaWZZErO",
+        "parent": "4EqSYwYI8IhdpOrKrDvfO8",
+        "isDir": false,
+        "title": "this is what heartbreak feels like",
+        "album": "this is what heartbreak feels like (432Hz)",
+        "artist": "JVKE",
+        "track": 1,
+        "year": 2022,
+        "coverArt": "mf-UfzVKt2hJ0hMsMYaWZZErO_697c5031",
+        "size": 18410492,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 157,
+        "bitRate": 921,
+        "path": "JVKE/this is what heartbreak feels like (432Hz)/01-01 - this is what heartbreak feels like.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:17.459910923-05:00",
+        "albumId": "4EqSYwYI8IhdpOrKrDvfO8",
+        "artistId": "7dV79MQNXCd3z70dI3Zzkb",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "this is what heartbreak feels like",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "7dV79MQNXCd3z70dI3Zzkb",
+            "name": "JVKE"
+          }
+        ],
+        "displayArtist": "JVKE",
+        "albumArtists": [
+          {
+            "id": "7dV79MQNXCd3z70dI3Zzkb",
+            "name": "JVKE"
+          }
+        ],
+        "displayAlbumArtist": "JVKE",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "S93wBwnkHknenCoG7rkFKi",
+        "parent": "2sMwFltaj8o11iaIEHbemk",
+        "isDir": false,
+        "title": "Chamber Of Reflection",
+        "album": "Salad Days",
+        "artist": "Mac DeMarco",
+        "track": 9,
+        "year": 2014,
+        "coverArt": "mf-S93wBwnkHknenCoG7rkFKi_697c4603",
+        "size": 25892744,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 231,
+        "bitRate": 891,
+        "path": "Mac DeMarco/Salad Days/01-09 - Chamber Of Reflection.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:21.804076083-05:00",
+        "albumId": "2sMwFltaj8o11iaIEHbemk",
+        "artistId": "4nWC2SDJgHr4NzUS4adOkc",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "chamber of reflection",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "4nWC2SDJgHr4NzUS4adOkc",
+            "name": "Mac DeMarco"
+          }
+        ],
+        "displayArtist": "Mac DeMarco",
+        "albumArtists": [
+          {
+            "id": "4nWC2SDJgHr4NzUS4adOkc",
+            "name": "Mac DeMarco"
+          }
+        ],
+        "displayAlbumArtist": "Mac DeMarco",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "GGdtqCSBhWHSopW3jFmeYs",
+        "parent": "4vpF0w1q3EmCzK6QJ88cwK",
+        "isDir": false,
+        "title": "Church (feat. Teddy Verseti)",
+        "album": "Epiphany (Expanded Edition)",
+        "artist": "T-Pain, Teddy Verseti",
+        "track": 2,
+        "year": 2007,
+        "coverArt": "mf-GGdtqCSBhWHSopW3jFmeYs_697c5b3f",
+        "size": 29561907,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 241,
+        "bitRate": 973,
+        "path": "T-Pain/Epiphany (Expanded Edition)/01-02 - Church (feat. Teddy Verseti).flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:28.13066366-05:00",
+        "albumId": "4vpF0w1q3EmCzK6QJ88cwK",
+        "artistId": "5HWVkBCgqsuDlJNzegfGEv",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "church (feat. teddy verseti)",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "5HWVkBCgqsuDlJNzegfGEv",
+            "name": "T-Pain, Teddy Verseti"
+          }
+        ],
+        "displayArtist": "T-Pain, Teddy Verseti",
+        "albumArtists": [
+          {
+            "id": "5Ak7tAO4j3NGmoFccQdLd8",
+            "name": "T-Pain"
+          }
+        ],
+        "displayAlbumArtist": "T-Pain",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "MtrgQEDbG47Gg6nEsaGhFY",
+        "parent": "33cVcmwRv7No9lu7BIPNJA",
+        "isDir": false,
+        "title": "Dirt Off Your Shoulder / Lying From You",
+        "album": "Dirt Off Your Shoulde r/ Lying From You: MTV Ultimate Mash-Ups Presents Collision Course",
+        "artist": "JAŸ-Z, Linkin Park",
+        "track": 1,
+        "year": 2004,
+        "coverArt": "mf-MtrgQEDbG47Gg6nEsaGhFY_6998d153",
+        "size": 31889234,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 244,
+        "bitRate": 1016,
+        "path": "JAŸ-Z, Linkin Park/Dirt Off Your Shoulde r_ Lying From You: MTV Ultimate Mash-Ups Presents Collision Course/01-01 - Dirt Off Your Shoulder _ Lying From You.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:17.179222849-05:00",
+        "albumId": "33cVcmwRv7No9lu7BIPNJA",
+        "artistId": "7GdzTY6jFo0nMv4f9Vhkfs",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "dirt off your shoulder / lying from you",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "7GdzTY6jFo0nMv4f9Vhkfs",
+            "name": "JAŸ-Z, Linkin Park"
+          }
+        ],
+        "displayArtist": "JAŸ-Z, Linkin Park",
+        "albumArtists": [
+          {
+            "id": "7GdzTY6jFo0nMv4f9Vhkfs",
+            "name": "JAŸ-Z, Linkin Park"
+          }
+        ],
+        "displayAlbumArtist": "JAŸ-Z, Linkin Park",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "nbxbrmWxinZYo17xlxk3lz",
+        "parent": "69AfsuLHzQq6ztYYH2aJHK",
+        "isDir": false,
+        "title": "Forever",
+        "album": "Forever",
+        "artist": "Chris Brown",
+        "track": 1,
+        "year": 2007,
+        "coverArt": "mf-nbxbrmWxinZYo17xlxk3lz_697c5538",
+        "size": 33592397,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 278,
+        "bitRate": 959,
+        "path": "Chris Brown/Forever/01-01 - Forever.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:12.555463069-05:00",
+        "albumId": "69AfsuLHzQq6ztYYH2aJHK",
+        "artistId": "0dUNX8ow8O5YZvgmHPexxn",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "forever",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "0dUNX8ow8O5YZvgmHPexxn",
+            "name": "Chris Brown"
+          }
+        ],
+        "displayArtist": "Chris Brown",
+        "albumArtists": [
+          {
+            "id": "0dUNX8ow8O5YZvgmHPexxn",
+            "name": "Chris Brown"
+          }
+        ],
+        "displayAlbumArtist": "Chris Brown",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "wotLX2UF8C5rgsNIcOXXVn",
+        "parent": "4C13WUgX5Rr0g72akgfgMw",
+        "isDir": false,
+        "title": "Paris",
+        "album": "Memories...Do Not Open",
+        "artist": "The Chainsmokers",
+        "track": 8,
+        "year": 2017,
+        "coverArt": "mf-wotLX2UF8C5rgsNIcOXXVn_697c2a5f",
+        "size": 25610708,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 221,
+        "bitRate": 921,
+        "path": "The Chainsmokers/Memories...Do Not Open/01-08 - Paris.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:28.71281972-05:00",
+        "albumId": "4C13WUgX5Rr0g72akgfgMw",
+        "artistId": "5agihEiblQ3I4eXIMwXs9t",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "paris",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "5agihEiblQ3I4eXIMwXs9t",
+            "name": "The Chainsmokers"
+          }
+        ],
+        "displayArtist": "The Chainsmokers",
+        "albumArtists": [
+          {
+            "id": "5agihEiblQ3I4eXIMwXs9t",
+            "name": "The Chainsmokers"
+          }
+        ],
+        "displayAlbumArtist": "The Chainsmokers",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "Cd6yLaKCYzzWWdfAmO5Lox",
+        "parent": "6ZNVT4Tk2BdG4FfJPex5am",
+        "isDir": false,
+        "title": "California Dreamin'",
+        "album": "All The Leaves Are Brown The Golden Era Collection",
+        "artist": "The Mamas & The Papas",
+        "track": 7,
+        "year": 2001,
+        "coverArt": "mf-Cd6yLaKCYzzWWdfAmO5Lox_697c4211",
+        "size": 17412455,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 162,
+        "bitRate": 849,
+        "path": "The Mamas & The Papas/All The Leaves Are Brown The Golden Era Collection/01-07 - California Dreamin'.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:29.037309673-05:00",
+        "albumId": "6ZNVT4Tk2BdG4FfJPex5am",
+        "artistId": "0OwPhvpA2EeVv2PTtWvfRm",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "california dreamin'",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "0OwPhvpA2EeVv2PTtWvfRm",
+            "name": "The Mamas & The Papas"
+          }
+        ],
+        "displayArtist": "The Mamas & The Papas",
+        "albumArtists": [
+          {
+            "id": "0OwPhvpA2EeVv2PTtWvfRm",
+            "name": "The Mamas & The Papas"
+          }
+        ],
+        "displayAlbumArtist": "The Mamas & The Papas",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "c0pS6RGEJsj0PSxwZi39Fq",
+        "parent": "5PFCuwnUa3SqWO3cP8oxDp",
+        "isDir": false,
+        "title": "Lifestyle",
+        "album": "Lifestyle",
+        "artist": "Rich Gang, Young Thug, Rich Homie Quan",
+        "track": 1,
+        "year": 2014,
+        "coverArt": "mf-c0pS6RGEJsj0PSxwZi39Fq_697c6db1",
+        "size": 34901180,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 269,
+        "bitRate": 1032,
+        "path": "Rich Gang/Lifestyle/01-01 - Lifestyle.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:26.042286921-05:00",
+        "albumId": "5PFCuwnUa3SqWO3cP8oxDp",
+        "artistId": "2PreRr6ToWvjLLuO4tCcOf",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "lifestyle",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "2PreRr6ToWvjLLuO4tCcOf",
+            "name": "Rich Gang, Young Thug, Rich Homie Quan"
+          }
+        ],
+        "displayArtist": "Rich Gang, Young Thug, Rich Homie Quan",
+        "albumArtists": [
+          {
+            "id": "5QndzKzFlzjEl4PwdhYnP7",
+            "name": "Rich Gang"
+          }
+        ],
+        "displayAlbumArtist": "Rich Gang",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "W8QDTqgSjUREuvU1fYB0w2",
+        "parent": "1Rip6OVQ2ePAVgChnCle5M",
+        "isDir": false,
+        "title": "Angel",
+        "album": "Hot Shot",
+        "artist": "Shaggy, Rayvon",
+        "track": 6,
+        "year": 2000,
+        "coverArt": "mf-W8QDTqgSjUREuvU1fYB0w2_697c4df2",
+        "size": 27945944,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 237,
+        "bitRate": 940,
+        "path": "Shaggy/Hot Shot/01-06 - Angel.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:26.943972638-05:00",
+        "albumId": "1Rip6OVQ2ePAVgChnCle5M",
+        "artistId": "4XFcqt9sVZvvjsIB0JfqgM",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "angel",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "4XFcqt9sVZvvjsIB0JfqgM",
+            "name": "Shaggy, Rayvon"
+          }
+        ],
+        "displayArtist": "Shaggy, Rayvon",
+        "albumArtists": [
+          {
+            "id": "36eT9Ofc5ELJWc0BUq7QQe",
+            "name": "Shaggy"
+          }
+        ],
+        "displayAlbumArtist": "Shaggy",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "5fislVzpBU94y1Yx2qP55k",
+        "parent": "2SFD5iZO4vsGmqoY5dzSch",
+        "isDir": false,
+        "title": "Butterflies",
+        "album": "Golden Hour",
+        "artist": "Kacey Musgraves",
+        "track": 3,
+        "year": 2018,
+        "coverArt": "mf-5fislVzpBU94y1Yx2qP55k_697cb299",
+        "size": 24305019,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 219,
+        "bitRate": 883,
+        "path": "Kacey Musgraves/Golden Hour/01-03 - Butterflies.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:18.722807654-05:00",
+        "albumId": "2SFD5iZO4vsGmqoY5dzSch",
+        "artistId": "6yagsbg9Yv7lVcntWL9Lug",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "butterflies",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "6yagsbg9Yv7lVcntWL9Lug",
+            "name": "Kacey Musgraves"
+          }
+        ],
+        "displayArtist": "Kacey Musgraves",
+        "albumArtists": [
+          {
+            "id": "6yagsbg9Yv7lVcntWL9Lug",
+            "name": "Kacey Musgraves"
+          }
+        ],
+        "displayAlbumArtist": "Kacey Musgraves",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "XRLQkY1wZpoTknWJtmLpMl",
+        "parent": "24Zbf9HIIFuLbhpKjAxUVQ",
+        "isDir": false,
+        "title": "Riders on the Storm",
+        "album": "L.A. Woman",
+        "artist": "The Doors",
+        "track": 10,
+        "year": 1971,
+        "coverArt": "mf-XRLQkY1wZpoTknWJtmLpMl_699c94a9",
+        "size": 52518556,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 434,
+        "bitRate": 960,
+        "path": "The Doors/L.A. Woman/01-10 - Riders on the Storm.flac",
+        "discNumber": 1,
+        "created": "2026-02-23T22:19:44.750659317-05:00",
+        "albumId": "24Zbf9HIIFuLbhpKjAxUVQ",
+        "artistId": "1hzmiYZZ2iVdvBvn9iK5Tu",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "riders on the storm",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USEE19900773"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "1hzmiYZZ2iVdvBvn9iK5Tu",
+            "name": "The Doors"
+          }
+        ],
+        "displayArtist": "The Doors",
+        "albumArtists": [
+          {
+            "id": "1hzmiYZZ2iVdvBvn9iK5Tu",
+            "name": "The Doors"
+          }
+        ],
+        "displayAlbumArtist": "The Doors",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "qk9yGk9Z25X9HWwkuNhbxR",
+        "parent": "7LvhhQOlrqKeYFG0uE3A0h",
+        "isDir": false,
+        "title": "Knowing",
+        "album": "Speakerboxxx/The Love Below",
+        "artist": "Outkast",
+        "track": 13,
+        "year": 2003,
+        "coverArt": "mf-qk9yGk9Z25X9HWwkuNhbxR_697c93f6",
+        "size": 26911214,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 211,
+        "bitRate": 1009,
+        "path": "Outkast/Speakerboxxx_The Love Below/01-13 - Knowing.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:24.347907204-05:00",
+        "albumId": "7LvhhQOlrqKeYFG0uE3A0h",
+        "artistId": "43YyKtltPCr44vA9wIoqmo",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "knowing",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "43YyKtltPCr44vA9wIoqmo",
+            "name": "Outkast"
+          }
+        ],
+        "displayArtist": "Outkast",
+        "albumArtists": [
+          {
+            "id": "43YyKtltPCr44vA9wIoqmo",
+            "name": "Outkast"
+          }
+        ],
+        "displayAlbumArtist": "Outkast",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "n1LeINOJy1uzmommz7zXlN",
+        "parent": "1gUsWI2JbLnXfonBBqN3oo",
+        "isDir": false,
+        "title": "THE SCOTTS",
+        "album": "THE SCOTTS",
+        "artist": "THE SCOTTS, Travis Scott, Kid Cudi",
+        "track": 1,
+        "year": 2020,
+        "coverArt": "mf-n1LeINOJy1uzmommz7zXlN_697c7080",
+        "size": 16481554,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 165,
+        "bitRate": 789,
+        "path": "THE SCOTTS, Travis Scott, Kid Cudi/THE SCOTTS/01-01 - THE SCOTTS.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:28.15445114-05:00",
+        "albumId": "1gUsWI2JbLnXfonBBqN3oo",
+        "artistId": "57zETyz2X3SQcz95HiIdBu",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "the scotts",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "57zETyz2X3SQcz95HiIdBu",
+            "name": "THE SCOTTS, Travis Scott, Kid Cudi"
+          }
+        ],
+        "displayArtist": "THE SCOTTS, Travis Scott, Kid Cudi",
+        "albumArtists": [
+          {
+            "id": "57zETyz2X3SQcz95HiIdBu",
+            "name": "THE SCOTTS, Travis Scott, Kid Cudi"
+          }
+        ],
+        "displayAlbumArtist": "THE SCOTTS, Travis Scott, Kid Cudi",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "ilUJUQfD6JOULBD1TKUnj9",
+        "parent": "0TDEZAj5sQcmoovoDLFzsz",
+        "isDir": false,
+        "title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+        "album": "High Voltage",
+        "artist": "AC/DC",
+        "track": 1,
+        "year": 1976,
+        "coverArt": "mf-ilUJUQfD6JOULBD1TKUnj9_699cbc0c",
+        "size": 124112173,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 302,
+        "bitRate": 3275,
+        "path": "AC_DC/High Voltage/01-01 - It's a Long Way to the Top (If You Wanna Rock 'N' Roll).flac",
+        "discNumber": 1,
+        "created": "2026-02-23T22:19:17.426904601-05:00",
+        "albumId": "0TDEZAj5sQcmoovoDLFzsz",
+        "artistId": "6Jr12ZUrCphs0nyIXE6sSP",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "it's a long way to the top (if you wanna rock 'n' roll)",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USEW17500002"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 96000,
+        "bitDepth": 24,
+        "moods": [],
+        "artists": [
+          {
+            "id": "6Jr12ZUrCphs0nyIXE6sSP",
+            "name": "AC/DC"
+          }
+        ],
+        "displayArtist": "AC/DC",
+        "albumArtists": [
+          {
+            "id": "6Jr12ZUrCphs0nyIXE6sSP",
+            "name": "AC/DC"
+          }
+        ],
+        "displayAlbumArtist": "AC/DC",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "3z1jGfQJx0coTz7Y162KuY",
+        "parent": "1ExaQeTdaQSZGv08L8PXIJ",
+        "isDir": false,
+        "title": "Hustler's Story (feat. Scarface, Akon & Big Gee)",
+        "album": "Duets: The Final Chapter",
+        "artist": "The Notorious B.I.G. • Akon • Big Gee • Scarface",
+        "track": 14,
+        "year": 2005,
+        "coverArt": "mf-3z1jGfQJx0coTz7Y162KuY_6a4acba5",
+        "size": 38273439,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 347,
+        "bitRate": 876,
+        "path": "The Notorious B.I.G./Duets: The Final Chapter/01-14 - Hustler's Story (feat. Scarface, Akon & Big Gee).flac",
+        "discNumber": 1,
+        "created": "2026-07-05T18:16:10.112875362-04:00",
+        "albumId": "1ExaQeTdaQSZGv08L8PXIJ",
+        "artistId": "0c21seDE6YcBKMz8o3IQtb",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://open.spotify.com/track/2zZ51zxWKnpSKOFSjGeIdx",
+        "sortName": "hustler's story (feat. scarface, akon & big gee)",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [
+          "USBB10500041"
+        ],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "0c21seDE6YcBKMz8o3IQtb",
+            "name": "The Notorious B.I.G."
+          },
+          {
+            "id": "3S1j6ZxWsp2SePoWuDjACV",
+            "name": "Akon"
+          },
+          {
+            "id": "5Nj6qh0CtAibX7CIbY8RCW",
+            "name": "Big Gee"
+          },
+          {
+            "id": "1NoWm1wnpUfHdueJ4AQWgY",
+            "name": "Scarface"
+          }
+        ],
+        "displayArtist": "The Notorious B.I.G. • Akon • Big Gee • Scarface",
+        "albumArtists": [
+          {
+            "id": "0c21seDE6YcBKMz8o3IQtb",
+            "name": "The Notorious B.I.G."
+          }
+        ],
+        "displayAlbumArtist": "The Notorious B.I.G.",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "1vGKQQqUlGbaFWhEeYFGi9",
+        "parent": "1UjMMlctWv78td4vD8SnzG",
+        "isDir": false,
+        "title": "Flashing Lights",
+        "album": "Graduation",
+        "artist": "Kanye West, Dwele",
+        "track": 9,
+        "year": 2007,
+        "coverArt": "mf-1vGKQQqUlGbaFWhEeYFGi9_697c3dcf",
+        "size": 27633268,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 237,
+        "bitRate": 925,
+        "path": "Kanye West/Graduation/01-09 - Flashing Lights.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:18.914319399-05:00",
+        "albumId": "1UjMMlctWv78td4vD8SnzG",
+        "artistId": "3WsEryerd3EOgnTO8HUWgD",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "flashing lights",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "3WsEryerd3EOgnTO8HUWgD",
+            "name": "Kanye West, Dwele"
+          }
+        ],
+        "displayArtist": "Kanye West, Dwele",
+        "albumArtists": [
+          {
+            "id": "02DiEqiNBn3idZvY8XP1lr",
+            "name": "Kanye West"
+          }
+        ],
+        "displayAlbumArtist": "Kanye West",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      },
+      {
+        "id": "vTjILR2h6HKvng7WIixfIm",
+        "parent": "3Nrkei8O3npyGl2gq7UQ5P",
+        "isDir": false,
+        "title": "Go Hard",
+        "album": "Go Hard",
+        "artist": "Lil Baby",
+        "track": 1,
+        "year": 2023,
+        "coverArt": "mf-vTjILR2h6HKvng7WIixfIm_697c85ad",
+        "size": 23655291,
+        "contentType": "audio/flac",
+        "suffix": "flac",
+        "duration": 217,
+        "bitRate": 863,
+        "path": "Lil Baby/Go Hard/01-01 - Go Hard.flac",
+        "discNumber": 1,
+        "created": "2026-02-21T21:46:20.397192699-05:00",
+        "albumId": "3Nrkei8O3npyGl2gq7UQ5P",
+        "artistId": "2rmgZptVXqF3Je7O24mZhu",
+        "type": "music",
+        "bpm": 0,
+        "comment": "https://github.com/afkarxyz/SpotiFLAC",
+        "sortName": "go hard",
+        "mediaType": "song",
+        "musicBrainzId": "",
+        "isrc": [],
+        "genres": [],
+        "replayGain": {},
+        "channelCount": 2,
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "moods": [],
+        "artists": [
+          {
+            "id": "2rmgZptVXqF3Je7O24mZhu",
+            "name": "Lil Baby"
+          }
+        ],
+        "displayArtist": "Lil Baby",
+        "albumArtists": [
+          {
+            "id": "2rmgZptVXqF3Je7O24mZhu",
+            "name": "Lil Baby"
+          }
+        ],
+        "displayAlbumArtist": "Lil Baby",
+        "contributors": [],
+        "displayComposer": "",
+        "explicitStatus": "",
+        "groupings": [],
+        "works": [],
+        "movements": []
+      }
+    ],
+    "createdAt": "2026-07-25T20:18:37.650Z",
+    "isDaily": true
+  }
+]

@@ -1,0 +1,18 @@
+services:
+  moodwave:
+    build: .
+    container_name: moodwave
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - NAVIDROME_URL=http://host.docker.internal:4533
+      - NAVIDROME_USER=admin
+      - NAVIDROME_PASSWORD=yourpassword
+      - OLLAMA_URL=http://host.docker.internal:11434
+      - OLLAMA_MODEL=llama3
+      - PORT=3000
+      - JWT_SECRET=change_this_to_a_random_string
+      - ADMIN_PASS=admin123
